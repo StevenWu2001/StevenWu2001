@@ -3,7 +3,7 @@
 
 ###  Links <img height="40" src="https://data.whicdn.com/images/188337945/original.gif"/> 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/shengyangwu/)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://github.com/StevenWu2001/StevenWu2001/blob/main/resume_shengyangwu.pdf)
 
 <!--
 **StevenWu2001/StevenWu2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
