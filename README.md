@@ -1,5 +1,5 @@
 ## Hi there 👋
-### :mortar_board: I am a Junior at Purdue University majoring in Computer Science and Data Science, with minor in Math and Music History.
+### :mortar_board: I am a Senior at Purdue University majoring in Computer Science and Data Science, with minor in Math. 
 <!--
 **StevenWu2001/StevenWu2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
